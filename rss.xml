@@ -2,16 +2,30 @@
     <channel>
         <title><![CDATA[Lena Angioni Photography]]></title>
         <description><![CDATA[Lena Angioni Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lena-angioni-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 11:40:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 11:40:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lena-angioni-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a7a7c1b-907e-4f99-ba69-b7f8d88a887b.jpg">]]></description>
-            <link>undefined64f86251-69cc-4142-a207-a64bc7dee3d2/index.html</link>
+            <link>https://thegrid.ai/lena-angioni-photography/64f86251-69cc-4142-a207-a64bc7dee3d2/index.html</link>
             <guid isPermaLink="false">64f86251-69cc-4142-a207-a64bc7dee3d2</guid>
             <pubDate>Tue, 19 Jul 2016 11:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec86447a-3e5d-485d-9c6f-bce72396efba.jpg">]]></description>
+            <link>https://thegrid.ai/lena-angioni-photography/0087c966-3522-4f16-b2a3-dc4b607e595e/index.html</link>
+            <guid isPermaLink="false">0087c966-3522-4f16-b2a3-dc4b607e595e</guid>
+            <pubDate>Tue, 19 Jul 2016 11:40:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c4b9e8-da65-4a7a-aaef-b7b84f804842.jpg">]]></description>
+            <link>https://thegrid.ai/lena-angioni-photography/37b7848f-4140-4b8e-b18b-a8795915ceba/index.html</link>
+            <guid isPermaLink="false">37b7848f-4140-4b8e-b18b-a8795915ceba</guid>
+            <pubDate>Tue, 19 Jul 2016 11:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
